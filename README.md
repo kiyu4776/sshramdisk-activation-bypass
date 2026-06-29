@@ -13,7 +13,7 @@ rm -fr /mnt1/Applications/Setup.app
 
 # STEP 3
 ```sh
-ls /Applications/
+ls /mnt1/Applications/Setup.app/
 ```
 ここで ``No such file or directory``　と出れば成功
 
