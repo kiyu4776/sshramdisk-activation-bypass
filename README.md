@@ -1,4 +1,4 @@
-sshramdisk で　setup.appを削除して、アクティベーションを回避する
+[legacy iOS Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)の sshramdiskでsetup.appを削除して、アクティベーションを擬似的に回避する
 
 # step 1
 
